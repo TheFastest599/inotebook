@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# iNotebook - save your notes on the cloud
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Create your account and save notes to the cloud.
+Add notes,edit and delete notes.
 
 ## Available Scripts
 
